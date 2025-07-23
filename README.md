@@ -1,8 +1,8 @@
 # BookStore Demo Project
 
-#Project Structure
+## Project Structure
 
-bookstore-demo3/
+book-store demo
 ├── index.html
 ├── styles.css
 ├── app.js
