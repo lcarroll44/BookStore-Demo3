@@ -1,5 +1,7 @@
 # BookStore Demo Project
 
+#Project Structure
+
 bookstore-demo3/
 ├── index.html
 ├── styles.css
