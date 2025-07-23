@@ -41,7 +41,8 @@ This project allows users to **view, add, search, filter, and delete books** fro
 
 ## Screenshots
 
-[Book Demo Screenshot](Bookstore Demo.jpeg)
+[Book Demo ![Bookstore Demo](https://github.com/user-attachments/assets/903ddbd5-2829-447f-b1b5-3fa2c48afb3a)
+Screenshot](Bookstore Demo.jpeg)
 
 ---
 
