@@ -1,0 +1,6 @@
+body { background: #f9f9f9; }
+
+h1 { font-weight: bold; color: #333; }
+
+#book-body tr { transition: opacity 0.3s ease-in-out; }
+#book-body tr:hover { background: #f1f1f1; }
