@@ -1,4 +1,4 @@
-# BookStore Demo Website
+# BookStore Demo Project
 
 bookstore-demo3/
 ├── index.html
@@ -39,7 +39,7 @@ This project allows users to **view, add, search, filter, and delete books** fro
 
 ## Screenshots
 
-![Book Demo Screenshot](Bookstore Demo.jpeg)
+[Book Demo Screenshot](Bookstore Demo.jpeg)
 
 ---
 
