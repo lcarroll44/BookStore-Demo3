@@ -3,4 +3,27 @@ body { background: #f9f9f9; }
 h1 { font-weight: bold; color: #333; }
 
 #book-body tr { transition: opacity 0.3s ease-in-out; }
+
 #book-body tr:hover { background: #f1f1f1; }
+/* Custom styles */
+#book-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+}
+
+button.delete-btn {
+  background: #e53e3e;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button.delete-btn:hover {
+  background: #c53030;
+}
+.removing {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
